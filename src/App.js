@@ -5,7 +5,7 @@ import Prix from "./Prix";
 import Description from "./Description";
 import Img from "./Img";
 
-const firstName = "mohsen";
+
 function App() {
   
   return (
