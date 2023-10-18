@@ -1,9 +1,9 @@
-
+import "./style.css"
 import Product from "./Product";
 function Description  () {
     return (
 <>
-{Product.description};
+<h2>caracteristique :{Product.description}</h2>
 </>
     )
     

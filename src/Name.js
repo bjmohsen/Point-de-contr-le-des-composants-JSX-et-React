@@ -1,4 +1,4 @@
-
+import "./style.css"
 import Product from "./Product";
 function Name  ()  {
     return (
@@ -6,7 +6,7 @@ function Name  ()  {
         
     <>
     
-    {Product.nom};
+    <h2>{Product.nom}</h2>
     </>
     )
 

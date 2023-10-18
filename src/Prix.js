@@ -1,8 +1,8 @@
-
+import "./style.css"
 import Product from "./Product";
 function Prix  ()  {
     return (<>
-     {Product.prix};
+     <h2> prix :{Product.prix}£</h2>
     </>)
    
    };

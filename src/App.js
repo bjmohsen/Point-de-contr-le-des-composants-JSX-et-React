@@ -11,7 +11,7 @@ function App() {
   return (
      
     <>
-   <Card style={{ width: '18rem' }}>
+   <Card style={{ width: '18rem'}}>
    <Img/>
       <Card.Body>
         <Name/>
